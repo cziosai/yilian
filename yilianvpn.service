@@ -1,0 +1,9 @@
+[Unit]
+Description=yilianvnp-service
+
+[Service]
+ExecStart=/home/g16324490/yilian/yilianvpn-server/vpn.out
+User=g16324490
+
+[Install]
+WantedBy=multi-user.target
