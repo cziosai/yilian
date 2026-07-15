@@ -10,7 +10,7 @@
 ```  
 3.运行程序
 ```  
- ./vpn.out port=4430
+ ./app port=4430
 ```
 ## windows
 Dev-C++ IDE 编译运行
